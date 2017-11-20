@@ -1,0 +1,726 @@
+[NbGraderApp | INFO] New config file saved to 'nbgrader_config.py'
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b0e8c749e46568ba76bf2b729855f25a616d8af66ddb9096
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b0e8c749e46568ba76bf2b729855f25a616d8af66ddb9096
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=15b6a3f7ef52872ee24fd8406981597e9df0fbda86ec9164
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=15b6a3f7ef52872ee24fd8406981597e9df0fbda86ec9164
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=2fe5c50b45c363c8988886e19a4d9951144f4d022781dc06
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=2fe5c50b45c363c8988886e19a4d9951144f4d022781dc06
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b5d566631cb5385c133f7d39d89109af996f982ce0356783
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b5d566631cb5385c133f7d39d89109af996f982ce0356783
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c4c4a72eb0ed309918cb9d8498ed349c7338e11c8389cced
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c4c4a72eb0ed309918cb9d8498ed349c7338e11c8389cced
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] 302 GET / (127.0.0.1) 1.58ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=edfc3ef37ff1c1090213a74a94f535eabd348319d25a26d0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=edfc3ef37ff1c1090213a74a94f535eabd348319d25a26d0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=905c151e418149c553809778b210e0a92a6121ed03b3be06
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=905c151e418149c553809778b210e0a92a6121ed03b3be06
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+    
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=107bc4f451c0300c2794ef0413b5a1dba6b203cea4470175
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=107bc4f451c0300c2794ef0413b5a1dba6b203cea4470175
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Copying /home/erik/dev/edu/jupyter-presentation/source/./ps1/jupyter.png -> /home/erik/dev/edu/jupyter-presentation/release/./ps1/jupyter.png
+[NotebookApp | INFO] Updating/creating assignment 'ps1': {}
+[NotebookApp | INFO] Converting notebook /home/erik/dev/edu/jupyter-presentation/source/./ps1/problem1.ipynb
+[NotebookApp | INFO] Writing 7884 bytes to /home/erik/dev/edu/jupyter-presentation/release/./ps1/problem1.ipynb
+[NotebookApp | INFO] Converting notebook /home/erik/dev/edu/jupyter-presentation/source/./ps1/problem2.ipynb
+[NotebookApp | INFO] Writing 2258 bytes to /home/erik/dev/edu/jupyter-presentation/release/./ps1/problem2.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Source: /home/erik/dev/edu/jupyter-presentation/release/./ps1
+[NotebookApp | INFO] Destination: /tmp/exchange/jupyter-presentation/outbound/ps1
+[NotebookApp | INFO] Released as: jupyter-presentation ps1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Source: /tmp/exchange/jupyter-presentation/outbound/ps1
+[NotebookApp | INFO] Destination: /home/erik/dev/edu/jupyter-presentation/ps1
+[NotebookApp | INFO] Fetched as: jupyter-presentation ps1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] 302 GET /tree/ps1/problem1.ipynb (127.0.0.1) 2.33ms
+[NotebookApp | WARNING] Notebook ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 54221d5d-7353-47a6-be94-1e9109f3d9e6
+[NotebookApp | INFO] 302 GET /notebooks/ps1/jupyter.png (127.0.0.1) 1.11ms
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171119180633 (127.0.0.1) 9.77ms referer=http://localhost:8888/notebooks/ps1/problem1.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54221d5d-7353-47a6-be94-1e9109f3d9e6
+[NotebookApp | INFO] Saving file at /ps1/problem1.ipynb
+[NotebookApp | INFO] Validating '/home/erik/dev/edu/jupyter-presentation/ps1/problem1.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | WARNING] No submissions of 'ps1' for course 'jupyter-presentation' to collect
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Source: /home/erik/dev/edu/jupyter-presentation/ps1
+[NotebookApp | INFO] Destination: /tmp/exchange/jupyter-presentation/inbound/erik+ps1+2017-11-19 17:10:22.794749 UTC
+[NotebookApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps1:
+    Expected:
+    	problem1.ipynb: FOUND
+    	problem2.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/problem1-checkpoint.ipynb: EXTRA
+    	problem1.ipynb: OK
+    	problem2.ipynb: OK
+[NotebookApp | INFO] Submitted as: jupyter-presentation ps1 2017-11-19 17:10:22.794749 UTC
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | INFO] jupyter-presentation erik ps1 2017-11-19 17:10:22.794749 UTC
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Processing 1 submissions of 'ps1' for course 'jupyter-presentation'
+[NotebookApp | INFO] Collecting submission: erik ps1
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Updating/creating assignment 'demo-assignment': {}
+[NotebookApp | INFO] Converting notebook /home/erik/dev/edu/jupyter-presentation/source/./demo-assignment/Untitled.ipynb
+[NotebookApp | INFO] Writing 2262 bytes to /home/erik/dev/edu/jupyter-presentation/release/./demo-assignment/Untitled.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] jupyter-presentation ps1 (already downloaded)
+[NotebookApp | WARNING] Notebook release/demo-assignment/Untitled.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 35ed62a0-b8ad-4775-a020-a39970d2e4f9
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171119180633 (127.0.0.1) 1.09ms referer=http://localhost:8888/notebooks/release/demo-assignment/Untitled.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35ed62a0-b8ad-4775-a020-a39970d2e4f9
+[NotebookApp | INFO] Starting buffering for 35ed62a0-b8ad-4775-a020-a39970d2e4f9:87711EBCA4454843835FF3F75057E869
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 54221d5d-7353-47a6-be94-1e9109f3d9e6
+[NotebookApp | INFO] Kernel shutdown: 35ed62a0-b8ad-4775-a020-a39970d2e4f9
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=9362c0759d268524841edd828e423192ea4be03d2dffe8bc
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=9362c0759d268524841edd828e423192ea4be03d2dffe8bc
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: efddecb7-a476-4682-8505-d72126a838ce
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171119182929 (127.0.0.1) 6.44ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel efddecb7-a476-4682-8505-d72126a838ce
+[NotebookApp | WARNING] 404 GET /api/kernels/54221d5d-7353-47a6-be94-1e9109f3d9e6/channels?session_id=5B71055D808449DA8DF42108424F1490 (127.0.0.1): Kernel does not exist: 54221d5d-7353-47a6-be94-1e9109f3d9e6
+[NotebookApp | WARNING] 404 GET /api/kernels/54221d5d-7353-47a6-be94-1e9109f3d9e6/channels?session_id=5B71055D808449DA8DF42108424F1490 (127.0.0.1) 1.80ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: 54221d5d-7353-47a6-be94-1e9109f3d9e6:5B71055D808449DA8DF42108424F1490
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Writing 16177 bytes to /home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex
+[NotebookApp | ERROR] nbconvert failed: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+    Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 111, in get
+        "config_dir": self.application.settings['config_dir'],
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 173, in from_notebook_node
+        tex_file = self.writer.write(latex, resources, notebook_name=notebook_name)
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbconvert/writers/files.py", line 126, in write
+        with io.open(dest, 'w', encoding='utf-8') as f:
+    NotADirectoryError: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+[NotebookApp | WARNING] 500 GET /nbconvert/pdf/Presentation.ipynb?download=true (127.0.0.1): nbconvert failed: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "http://localhost:8888/notebooks/Presentation.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,sv;q=0.8",
+      "Cookie": "username-localhost-8890=\"2|1:0|10:1509193112|23:username-localhost-8890|44:MjNhNmU3YWViN2VkNGYyMmIxMjk5MjY3NDYxOTE1MmM=|32df83e48e1befd595f366d3f3dd3cdebae423c183e6fe8bad87cf20f14a6047\"; username-localhost-8889=\"2|1:0|10:1510258332|23:username-localhost-8889|44:M2E5Nzk4MTc0ZTVlNDFiZWI4ZDdjMTc5YjJkNGViY2Y=|92d24afea671fb11b853a7fb72c991927203cf2de2d7ba6a318882eef3fe75c0\"; _xsrf=2|a29afc79|7689a0282ea06a6f5894cc2a66008d25|1511096729; username-localhost-8888=\"2|1:0|10:1511112570|23:username-localhost-8888|44:NjVjNzQ5NDM0ODJkNDEwOWI3MjAyOTVmZjI1ZWE3OTE=|f553edafe91f03110d88b1e87b2ac34ffd35af0ed84c73e5528c085bd921ce10\""
+    }
+[NotebookApp | ERROR] 500 GET /nbconvert/pdf/Presentation.ipynb?download=true (127.0.0.1) 216.17ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /nbconvert/html/custom.css (127.0.0.1): No such file or directory: custom.css
+[NotebookApp | WARNING] 404 GET /nbconvert/html/custom.css (127.0.0.1) 20.43ms referer=http://localhost:8888/nbconvert/html/Presentation.ipynb?download=false
+[NotebookApp | INFO] Writing 16177 bytes to /home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex
+[NotebookApp | ERROR] nbconvert failed: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+    Traceback (most recent call last):
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/notebook/nbconvert/handlers.py", line 111, in get
+        "config_dir": self.application.settings['config_dir'],
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/pdf.py", line 173, in from_notebook_node
+        tex_file = self.writer.write(latex, resources, notebook_name=notebook_name)
+      File "/home/erik/anaconda3/lib/python3.6/site-packages/nbconvert/writers/files.py", line 126, in write
+        with io.open(dest, 'w', encoding='utf-8') as f:
+    NotADirectoryError: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+[NotebookApp | WARNING] 500 GET /nbconvert/pdf/Presentation.ipynb?download=true (127.0.0.1): nbconvert failed: [Errno 20] Not a directory: '/home/erik/dev/edu/jupyter-presentation/Presentation.ipynb/notebook.tex'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Referer": "http://localhost:8888/notebooks/Presentation.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,sv;q=0.8",
+      "Cookie": "username-localhost-8890=\"2|1:0|10:1509193112|23:username-localhost-8890|44:MjNhNmU3YWViN2VkNGYyMmIxMjk5MjY3NDYxOTE1MmM=|32df83e48e1befd595f366d3f3dd3cdebae423c183e6fe8bad87cf20f14a6047\"; username-localhost-8889=\"2|1:0|10:1510258332|23:username-localhost-8889|44:M2E5Nzk4MTc0ZTVlNDFiZWI4ZDdjMTc5YjJkNGViY2Y=|92d24afea671fb11b853a7fb72c991927203cf2de2d7ba6a318882eef3fe75c0\"; _xsrf=2|a29afc79|7689a0282ea06a6f5894cc2a66008d25|1511096729; username-localhost-8888=\"2|1:0|10:1511112570|23:username-localhost-8888|44:NjVjNzQ5NDM0ODJkNDEwOWI3MjAyOTVmZjI1ZWE3OTE=|f553edafe91f03110d88b1e87b2ac34ffd35af0ed84c73e5528c085bd921ce10\""
+    }
+[NotebookApp | ERROR] 500 GET /nbconvert/pdf/Presentation.ipynb?download=true (127.0.0.1) 172.56ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: 54221d5d-7353-47a6-be94-1e9109f3d9e6:5B71055D808449DA8DF42108424F1490
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.12ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.97ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 1.16ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.04ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.78ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.69ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.81ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.66ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.81ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.68ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.79ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.66ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.90ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.83ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.78ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.68ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.17ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 1.10ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.81ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.67ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.34ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v (127.0.0.1): No such file or directory: mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v
+[NotebookApp | WARNING] 404 GET /notebooks/mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v (127.0.0.1) 1.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v (127.0.0.1): No such file or directory: mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v
+[NotebookApp | WARNING] 404 GET /notebooks/mirrors.standaloneinstaller.com/video-sample/dolbycanyon.m4v (127.0.0.1) 3.79ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.84ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 1.58ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.07ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.89ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: efddecb7-a476-4682-8505-d72126a838ce
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/erik/dev/edu/jupyter-presentation
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=23399c98f24459f86bc1e71b25eec38c8266eaba30889ea0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=23399c98f24459f86bc1e71b25eec38c8266eaba30889ea0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | WARNING] 404 GET /api/kernels/efddecb7-a476-4682-8505-d72126a838ce/channels?session_id=651821D3989E4F79978CCB2D9158E663 (127.0.0.1): Kernel does not exist: efddecb7-a476-4682-8505-d72126a838ce
+[NotebookApp | WARNING] 404 GET /api/kernels/efddecb7-a476-4682-8505-d72126a838ce/channels?session_id=651821D3989E4F79978CCB2D9158E663 (127.0.0.1) 8.16ms referer=None
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171119211826 (127.0.0.1) 1.66ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Kernel started: a78f3a7c-4f07-4961-94c7-d5e9d160f46b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a78f3a7c-4f07-4961-94c7-d5e9d160f46b
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.62ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: efddecb7-a476-4682-8505-d72126a838ce:651821D3989E4F79978CCB2D9158E663
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.92ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.90ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: efddecb7-a476-4682-8505-d72126a838ce:651821D3989E4F79978CCB2D9158E663
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: efddecb7-a476-4682-8505-d72126a838ce:651821D3989E4F79978CCB2D9158E663
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: efddecb7-a476-4682-8505-d72126a838ce:651821D3989E4F79978CCB2D9158E663
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Notebook source/gradient-descent/gradient-descent.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171119211826 (127.0.0.1) 0.92ms referer=http://localhost:8888/notebooks/source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Kernel started: 18b5c53b-29de-46c8-bd8a-68e1dc399dce
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 18b5c53b-29de-46c8-bd8a-68e1dc399dce
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Validating '/home/erik/dev/edu/jupyter-presentation/source/gradient-descent/gradient-descent.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Validating '/home/erik/dev/edu/jupyter-presentation/source/gradient-descent/gradient-descent.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Starting buffering for 18b5c53b-29de-46c8-bd8a-68e1dc399dce:CA5B99BF04F54A7E9C1E57AF4FB7988E
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 2.02ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 1.46ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.92ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.77ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.88ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.78ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.89ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.81ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 1.19ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 1.02ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (127.0.0.1) 0.99ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (127.0.0.1) 0.90ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Starting buffering for a78f3a7c-4f07-4961-94c7-d5e9d160f46b:2C430BA2CB1D4AEC8EFB9CE24FFBDA0C
