@@ -724,3 +724,251 @@
 [NotebookApp | INFO] Saving file at /Presentation.ipynb
 [NotebookApp | INFO] Saving file at /Presentation.ipynb
 [NotebookApp | INFO] Starting buffering for a78f3a7c-4f07-4961-94c7-d5e9d160f46b:2C430BA2CB1D4AEC8EFB9CE24FFBDA0C
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=ff788f0d5768438070328ab4ede421193c3e980f9e0f5a76
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ff788f0d5768438070328ab4ede421193c3e980f9e0f5a76
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 66e4f6ad-573b-48fa-9383-ea0c50d9d536
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 66e4f6ad-573b-48fa-9383-ea0c50d9d536
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 20.95ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 66e4f6ad-573b-48fa-9383-ea0c50d9d536
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=dbe4617c32032c001acbef954527acdf0d623d735111383d
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=dbe4617c32032c001acbef954527acdf0d623d735111383d
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8267ef9e-a8c5-4206-908f-1f413ee44d3d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8267ef9e-a8c5-4206-908f-1f413ee44d3d
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 10.03ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 1.50ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /api/kernels/66e4f6ad-573b-48fa-9383-ea0c50d9d536/channels?session_id=7A9E059980094C2C822B314F940AA14A (::1): Kernel does not exist: 66e4f6ad-573b-48fa-9383-ea0c50d9d536
+[NotebookApp | WARNING] 404 GET /api/kernels/66e4f6ad-573b-48fa-9383-ea0c50d9d536/channels?session_id=7A9E059980094C2C822B314F940AA14A (::1) 4.01ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 2.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | WARNING] Replacing stale connection: 66e4f6ad-573b-48fa-9383-ea0c50d9d536:7A9E059980094C2C822B314F940AA14A
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8267ef9e-a8c5-4206-908f-1f413ee44d3d
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 1.50ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 8267ef9e-a8c5-4206-908f-1f413ee44d3d
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=4a63c0f6ee94cdf760f6a0d68547e64511e8d128cd19bfe6
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=4a63c0f6ee94cdf760f6a0d68547e64511e8d128cd19bfe6
+[NotebookApp | WARNING] 404 GET /api/kernels/8267ef9e-a8c5-4206-908f-1f413ee44d3d/channels?session_id=E59BCD847392488882AD59C171A30C42 (::1): Kernel does not exist: 8267ef9e-a8c5-4206-908f-1f413ee44d3d
+[NotebookApp | WARNING] 404 GET /api/kernels/8267ef9e-a8c5-4206-908f-1f413ee44d3d/channels?session_id=E59BCD847392488882AD59C171A30C42 (::1) 79.45ms referer=None
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 54cd2ba4-d216-4616-ab8e-9dab5e0a23d0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54cd2ba4-d216-4616-ab8e-9dab5e0a23d0
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 1.50ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 54cd2ba4-d216-4616-ab8e-9dab5e0a23d0
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=d0eff4c9bbfce35911b119fe6c16ef2b7e1465c81babc1b7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d0eff4c9bbfce35911b119fe6c16ef2b7e1465c81babc1b7
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Presentation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 9.02ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 3.05ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Notebook source/gradient-descent/gradient-descent.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6e450740-dcdb-46f3-88c0-8f593efb8fcc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6e450740-dcdb-46f3-88c0-8f593efb8fcc
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Kernel restarted: b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 3.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.05ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 3.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] Notebook source/gradient-descent/gradient-descent.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6e450740-dcdb-46f3-88c0-8f593efb8fcc
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Saving file at /source/gradient-descent/gradient-descent.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 3.05ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 3.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1): No such file or directory: rise.css
+[NotebookApp | WARNING] 404 GET /notebooks/rise.css (::1) 2.97ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1): No such file or directory: Presentation.css
+[NotebookApp | WARNING] 404 GET /notebooks/Presentation.css (::1) 2.01ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | INFO] Kernel shutdown: 6e450740-dcdb-46f3-88c0-8f593efb8fcc
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=694447bdc85a655024af8b1875b590e7b61aac12af32a4e4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=694447bdc85a655024af8b1875b590e7b61aac12af32a4e4
+[NotebookApp | WARNING] 404 GET /api/kernels/b73991db-45eb-447c-9b2b-e098d7c608ac/channels?session_id=11DD6AE8A4E24829826DA80CC98AA67D (::1): Kernel does not exist: b73991db-45eb-447c-9b2b-e098d7c608ac
+[NotebookApp | WARNING] 404 GET /api/kernels/b73991db-45eb-447c-9b2b-e098d7c608ac/channels?session_id=11DD6AE8A4E24829826DA80CC98AA67D (::1) 312.61ms referer=None
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: e04b1e04-e56c-4cc7-9456-3d90713b22c6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e04b1e04-e56c-4cc7-9456-3d90713b22c6
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 2.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: e04b1e04-e56c-4cc7-9456-3d90713b22c6
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\eriki\dev\edu\jupyter-presentation
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=91ab86892c01648796f91ffbcd5fd0e286d61a7d572b5701
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=91ab86892c01648796f91ffbcd5fd0e286d61a7d572b5701
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /api/kernels/e04b1e04-e56c-4cc7-9456-3d90713b22c6/channels?session_id=AEDC70A9EF354DCA865CAB3292937017 (::1): Kernel does not exist: e04b1e04-e56c-4cc7-9456-3d90713b22c6
+[NotebookApp | WARNING] 404 GET /api/kernels/e04b1e04-e56c-4cc7-9456-3d90713b22c6/channels?session_id=AEDC70A9EF354DCA865CAB3292937017 (::1) 14.07ms referer=None
+[NotebookApp | INFO] Kernel started: 0e7077fb-eeee-457b-a426-b94b6eae85b7
+[NotebookApp | WARNING] Replacing stale connection: e04b1e04-e56c-4cc7-9456-3d90713b22c6:AEDC70A9EF354DCA865CAB3292937017
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e7077fb-eeee-457b-a426-b94b6eae85b7
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (::1) 1.00ms referer=http://localhost:8888/notebooks/Presentation.ipynb
+[NotebookApp | INFO] Saving file at /Presentation.ipynb

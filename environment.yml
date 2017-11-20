@@ -1,0 +1,12 @@
+channels:
+  - damianavila82
+  - conda-forge
+  - defaults
+dependencies:
+  - nbgrader
+  - rise
+  - ipywidgets
+  - pip
+  - pip:
+      - plotly
+  
