@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - numpy
   - nbgrader
   - rise
   - ipywidgets
